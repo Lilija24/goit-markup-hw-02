@@ -88,7 +88,6 @@ h3 {
 .section-three{
     background-color: #F5F4FA;
 }
-
 .section-title {
     color: var(--title-text-color);
     font-style: normal;
@@ -112,7 +111,6 @@ h3 {
     clip: rect(0 0 0 0);
     overflow: hidden;
 }
-
 .feature-list .title-features {
     color: var(--title-text-color);
 }
@@ -132,7 +130,6 @@ h3 {
     letter-spacing: 0.03em;
     color: var(--primary-text-color);
 }
-
 /*Team*/
 
 .team-list .title-name {
@@ -151,7 +148,6 @@ font-style: normal;
     text-align: center;
     letter-spacing: 0.03em;
 }
-
 /*Button*/
 
 .button {
